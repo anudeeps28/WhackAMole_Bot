@@ -1,2 +1,2 @@
 # Whack-A-Mole Robot
-ME 588 Final project
+ME 588: Mechatronics Final project
